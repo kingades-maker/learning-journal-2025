@@ -50,7 +50,7 @@ The deadline is still quite a bit away so I should be perfectly fine. If anythin
 
 19/12/2025
 Today will be the day I attempt to finish everything for the holidays so I will go in for assistance since Paul is in today and hopefully submit all of my programming assignment.
-I have now recorded the final video with all the prototypes and the video has been posted onto youtube.
+I have now recorded the final video with all the prototypes.
 
 
 
